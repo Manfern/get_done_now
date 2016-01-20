@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  deadline: 2016-01-20 19:03:05
+  daycounter: 1
+  description: MyText
+
+two:
+  name: MyString
+  deadline: 2016-01-20 19:03:05
+  daycounter: 1
+  description: MyText
